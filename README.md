@@ -3,7 +3,7 @@
 Este repositório contém exercícios, anotações e pequenos desafios que estou resolvendo para praticar lógica de programação e aprender novas tecnologias.
 
 ## Para visualizar as subpastas 
-1. Clique no botão que mostra a branch (geralmente aparece como `main`) no canto superior esquerdo da página.
+1. Clique no botão que mostra a branch (geralmente aparece como `main`).
 2. Selecione a opção `master`.
 3. E as subpastas estaram visíveis com todos os arquivos organizados.
 
