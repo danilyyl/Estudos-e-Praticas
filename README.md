@@ -10,6 +10,7 @@ Alguns dos temas que já pratiquei:
 - Manipulação de strings;
 - Operações matemáticas como: números pares e ímpares, tabuada do número digitado, fatorial de um número e operações básicas de uma calculadora.
 
+---
 
 🛠️ **MySQL**
 - Criação de bancos de dados e tabelas;
