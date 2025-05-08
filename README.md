@@ -9,6 +9,7 @@ Alguns dos temas que já pratiquei:
 - Laços de repetição (`for`, `while`);
 - Manipulação de strings;
 - Operações matemáticas como: números pares e ímpares, tabuada do número digitado, fatorial de um número e operações básicas de uma calculadora.
+<<<<<<< HEAD
 
 ---
 
@@ -27,3 +28,5 @@ Alguns dos temas que já pratiquei:
 
 **Em andamento:**
 Estou expandindo meus conhecimentos em MySQL, criando novos bancos e realizando consultas mais avançadas, além de trabalhar com a integração com outras tecnologias.
+
+>>>>>>> 9cff4fc (adiciona novo exercicio na pasta correta)

@@ -1,0 +1,6 @@
+1 - Adicionar nova linha
+2 - Ler todas as linhas
+3 - Ler linha específica
+4 - Editar linha específica
+5 - Apagar linha específica
+6 - Sair
