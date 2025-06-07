@@ -16,9 +16,7 @@ Este repositório contém exercícios, anotações e pequenos desafios que estou
 
 ## 📂 Estrutura do repositório
 - `python/`: desafios, scripts e testes com Python.
-- `javascript/`: lógica.
-- `java/`: práticas básicas com Java.
-- `banco-de-dados/`: comandos SQL e anotações sobre bancos de dados relacionais e não relacionais.
+- `banco-de-dados/`: comandos SQL 
 
 ## 📌 Objetivo
 Este repositório é voltado para meus estudos diários e reforço da lógica de programação. Não contém projetos finalizados, mas sim práticas que mostram minha evolução no aprendizado.
